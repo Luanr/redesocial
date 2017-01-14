@@ -28,5 +28,5 @@ de um determinado conteúdo.
 
 ### Links
 
- * [pdf-sistema](https://github.com/redesocial/apresentacao) -PDF de Apresentação do trabalho, explicação de todo o sistema com modelos logicos e conceituais.
+ * [pdf-sistema](https://github.com/matheusfrancisco/redesocial/apresentacao.pdf) -PDF de Apresentação do trabalho, explicação de todo o sistema com modelos logicos e conceituais.
 
