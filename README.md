@@ -1,4 +1,4 @@
-<center>
+
 # Trabalho de Banco de Dados I
 
 Universidade Federal de Santa Catarina - UFSC.<br>
